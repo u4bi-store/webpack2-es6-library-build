@@ -3,8 +3,6 @@
  * @Core App
  */
 
-require('../sass/Basic.scss');
-
 var 
     Basic;
 

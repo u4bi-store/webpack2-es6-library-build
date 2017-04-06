@@ -1,3 +1,5 @@
+require('../sass/Basic.scss');
+
 class Basic{
     constructor(){
 
